@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**yagnikvadi2003/yagnikvadi2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    Hi, I'm Yagnik! 👋 <br>
+    🔥 1 Year Old Software Developer grinding hard to make something cool <br>
+    🔭 I’m currently working on InfineIT Global Services LLP.
+    🌱 I’m currently learning Node JS, Typescript, and ExpressJS.
+    🤔 I’m looking for help with Node JS, and Typescript Developers.
+    😄 Pronouns: Yagnik Vadi.
+    :sparkles: Favorite Tech: JavaScript, React, Typescript ... <br>
+    :email:	yagnikvadi8@gmail.com <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/yagnikvadi20 <br>
+  </samp>
+</p>
