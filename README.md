@@ -7,7 +7,7 @@
     🤔 I’m looking for help with Node JS, and Typescript Developers. <br>
     😄 Pronouns: Yagnik Vadi. <br>
     :sparkles: Favorite Tech: JavaScript, React, Typescript ... <br>
-    :email:	[yagnikvadi8@gmail.com](yagnikvadi8@gmail.com) <br>
+    :email:	yagnikvadi8@gmail.com <br>
     :briefcase: LinkedIn: https://linkedin.com/in/yagnikvadi2003/ <br>
   </samp>
 </p>
